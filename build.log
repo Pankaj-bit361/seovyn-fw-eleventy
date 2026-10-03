@@ -1,0 +1,11 @@
+
+> build
+> eleventy
+
+[11ty] Writing ./_site/sitemap.xml from ./content/sitemap.xml.njk
+[11ty] Writing ./_site/blog/index.html from ./content/blog.njk
+[11ty] Writing ./_site/index.html from ./content/index.njk
+[11ty] Writing ./_site/about/index.html from ./content/about.md (njk)
+[11ty] Writing ./_site/blog/what-to-wear-to-a-pottery-class/index.html from ./content/blog/what-to-wear-to-a-pottery-class.md (njk)
+[11ty] Writing ./_site/blog/wheel-throwing-vs-hand-building/index.html from ./content/blog/wheel-throwing-vs-hand-building.md (njk)
+[11ty] Copied 3 Wrote 6 files in 0.15 seconds (v3.1.6)

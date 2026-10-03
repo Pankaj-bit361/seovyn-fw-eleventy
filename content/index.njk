@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+---
+<h1>{{ metadata.title }}</h1>
+<p class="tagline">{{ metadata.description }}</p>
+<p>Kiln &amp; Clay is a small pottery studio in Asheville. We teach wheel throwing and hand-building to beginners in classes of six or fewer.</p>
+<p>Try a two-hour taster session, or join a six-week course. We fire and glaze your pieces and they're ready about three weeks later.</p>
+<h2>From the blog</h2>
+<ul class="posts">
+{%- for post in collections.posts | reverse %}{% if loop.index0 < 6 %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{%- endif %}{% endfor %}
+</ul>

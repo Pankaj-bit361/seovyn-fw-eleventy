@@ -1,0 +1,30 @@
+{
+  "name": "Kiln & Clay Pottery Studio",
+  "tagline": "Pottery classes for beginners in Asheville, North Carolina",
+  "home": [
+    "Kiln & Clay is a small pottery studio in Asheville. We teach wheel throwing and hand-building to beginners in classes of six or fewer.",
+    "Try a two-hour taster session, or join a six-week course. We fire and glaze your pieces and they're ready about three weeks later."
+  ],
+  "about": [
+    "The studio is in a converted warehouse in the River Arts District.",
+    "We use a local stoneware clay and mix our own glazes."
+  ],
+  "posts": [
+    {
+      "slug": "what-to-wear-to-a-pottery-class",
+      "title": "What to wear to your first pottery class",
+      "description": "Clothes, nails and jewelry: what to know before you come.",
+      "date": "2026-08-18",
+      "body": "Clay gets everywhere, so plan for it.\n\n## Clothes\n\nWear clothes you don't mind getting dirty. We lend aprons.\n\n## Nails and jewelry\n\nLong nails leave marks in the clay. Take off rings and watches.\n\n## How long it takes\n\nYour pieces need to dry and be fired twice, so they're ready about three weeks later."
+    },
+    {
+      "slug": "wheel-throwing-vs-hand-building",
+      "title": "Wheel throwing vs hand-building",
+      "description": "Which one to start with, and what each is good for.",
+      "date": "2026-09-08",
+      "body": "There are two main ways to shape clay.\n\n## Hand-building\n\nPinching, coiling and slabs. You can make any shape, and it's forgiving for beginners.\n\n## Wheel throwing\n\nShaping clay on a spinning wheel. Great for symmetrical pots, but centering the clay takes practice.\n\n## Where to start\n\nFor a taster session, start with hand-building. Our six-week course covers both."
+    }
+  ],
+  "url": "https://pankaj-bit361.github.io/seovyn-fw-eleventy",
+  "base": "/seovyn-fw-eleventy"
+}
